@@ -1,0 +1,35 @@
+<style>
+
+                /*使用梯形叠加实现伪圆角效果*/
+
+		.box{
+
+			width: 600px; height: 200px;
+
+			background-color: #c00;
+
+		}
+
+		.border{
+
+			width: 590px;
+
+			border:5px solid;
+
+			border-color: transparent;
+
+		}
+
+		.bottom{
+
+			border-bottom-color: #c00;
+
+		}
+
+		.top{
+
+			border-top-color: #c00;
+
+		}
+
+</style>
